@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>2026.02.07</title>
+  <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+
+<header>
+  <h1>2026.02.07</h1>
+  <p>night / blue / silence</p>
+</header>
+
+<main style="max-width:800px; margin:auto; padding:40px;">
+ <img src="../images/2024.09.16.jpg" class="photo">
+
+
+  <p>
+    2024년 캐논 R8과 함께 잠수교를 촬영하였다.
+  </p>
+
+  <p style="margin-top:40px;">
+    <a href="https://instagram.com/picpo_hm" target="_blank">
+      → Instagram에서 보기
+    </a>
+  </p>
+
+  <p style="margin-top:40px;">
+    <a href="../index.html">← archive로 돌아가기</a>
+  </p>
+</main>
+
+</body>
+</html>
