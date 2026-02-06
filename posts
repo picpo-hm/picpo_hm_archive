@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>2026.02.07</title>
+  <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+
+<header>
+  <h1>2026.02.07</h1>
+  <p>night / blue / silence</p>
+</header>
+
+<main style="max-width:800px; margin:auto; padding:40px;">
+  <img src="../images/20260207.jpg" style="width:100%; margin-bottom:30px;">
+
+  <p>
+    이 날은 빛을 최대한 줄이고 색만 남기고 싶었다.<br>
+    소음 없는 밤의 느낌을 기록해두고 싶어서.
+  </p>
+
+  <p style="margin-top:40px;">
+    <a href="https://instagram.com/picpo_hm" target="_blank">
+      → Instagram에서 보기
+    </a>
+  </p>
+
+  <p style="margin-top:40px;">
+    <a href="../index.html">← archive로 돌아가기</a>
+  </p>
+</main>
+
+</body>
+</html>
